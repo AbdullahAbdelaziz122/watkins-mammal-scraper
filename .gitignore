@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+/data/* # Ignores downloaded files
+!/data/.gitkeep     # Keeps the folder structure but ignores content
